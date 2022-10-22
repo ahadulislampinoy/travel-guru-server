@@ -20,3 +20,5 @@ app.get("/hotels", (req, res) => {
 app.listen(port, () => {
   console.log("port started on", port);
 });
+
+module.exports = app;
