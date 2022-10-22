@@ -1,0 +1,50 @@
+[
+    {
+        "id": "01",
+        "img": "https://i.ibb.co/6tNcpwh/Rectangle-26.png",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "rooms": {
+            "guests": 4,
+            "bedrooms": 2,
+            "beds": 2,
+            "baths": 2
+        },
+        "includes": "Wif Air conditioning Kitchen",
+        "speciality": "Cancellation fexibility availiable",
+        "rating": 4.9,
+        "total-ratings": "20",
+        "price": 49
+    },
+    {
+        "id": "02",
+        "img": "https://i.ibb.co/LgVD8Dy/Rectangle-27.png",
+        "title": "Apartment in Lost Panorama",
+        "rooms": {
+            "guests": 4,
+            "bedrooms": 2,
+            "beds": 2,
+            "baths": 2
+        },
+        "includes": "Wif Air conditioning Kitchen",
+        "speciality": "Cancellation fexibility availiable",
+        "rating": 4.8,
+        "total-ratings": "10",
+        "price": 44
+    },
+    {
+        "id": "03",
+        "img": "https://i.ibb.co/LdT0M2K/Rectangle-28.png",
+        "title": "AR Lounge & Pool (r&r + b&b)",
+        "rooms": {
+            "guests": 4,
+            "bedrooms": 2,
+            "beds": 2,
+            "baths": 2
+        },
+        "includes": "Wif Air conditioning Kitchen",
+        "speciality": "Cancellation fexibility availiable",
+        "rating": 4.9,
+        "total-ratings": "43",
+        "price": 62
+    }
+]
