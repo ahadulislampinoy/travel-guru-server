@@ -2,16 +2,19 @@
     {
         "id": "01",
         "name": "Sreemangal",
-        "img": "https://i.ibb.co/LNp70Vy/Sreemongol.png"
+        "img": "https://i.ibb.co/LNp70Vy/Sreemongol.png",
+        "des": "Srimangal/Sreemangal is a city in Sylhet Division in Bangladesh. Sreemangal is situated in Moulvibazar district in sylhet division. Sreemangal is an Upazila. It is famous for tea garden. Rain all time occurs here. Nature has adorned sreemangal with green tress. Its natural scenery is very charming."
     },
     {
         "id": "02",
         "name": "Sundarbans",
-        "img": "https://i.ibb.co/fkZZwTL/sundorbon.png"
+        "img": "https://i.ibb.co/fkZZwTL/sundorbon.png",
+        "des": "Sundarbans is a mangrove area in the delta formed by the confluence of the Padma, Brahmaputra and Meghna Rivers in the Bay of Bengal. It spans the area from the Baleswar River in Bangladesh's division of Khulna to the Hooghly River in India's state of West Bengal."
     },
     {
         "id": "03",
         "name": "Sajek",
-        "img": "https://i.ibb.co/CK1dpZn/Sajek.png"
+        "img": "https://i.ibb.co/CK1dpZn/Sajek.png",
+        "des": "Sajek Tripuri Valley is one of the most popular tourist spots in Bangladesh situated among the hills of the Kasalong range of mountains in Sajek union, Baghaichhari Upazila in Rangamati District. The valley is 2,000 feet (610 m) above sea level. Sajek Tripuri Valley is known as the Queen of Hills & Roof of Rangamati."
     }
 ]
